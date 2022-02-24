@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Des services bien pensés"
+  title : "Des services optimisés pour votre collectivité"
   feature_item:
     # feature item loop
     - name : "Open source"
@@ -75,7 +75,7 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Vous avez d'autres besoins ?"
+  title : "Besoin d'aller plus loin ?"
   image : "images/cta.svg"
   content : "Communiquez-nous vos besoins complémentaires afin qu'on puisse les étudier au mieux et envisager de vous proposer les solutions très prochainement."
   button:
