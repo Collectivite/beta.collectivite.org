@@ -1,0 +1,23 @@
+[readmore]
+other = "En savoir +"
+
+[translations]
+other="Translations"
+
+[error404]
+other = "Il doit y avoir une erreur, il n'y a rien à cette adresse…"
+
+[yourname]
+other = "Prénom / nom"
+
+[youremail]
+other = "Adresse email"
+
+[subject]
+other = "Sujet"
+
+[yourmessage]
+other = "Message"
+
+[sendnow]
+other = "Envoyer"

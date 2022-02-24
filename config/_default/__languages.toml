@@ -1,0 +1,25 @@
+[fr]
+languageName = "Français"
+title = "Collectivité"
+contentDir = "content/fr" # content/german
+weight = 1
+########### footer content ##########
+footer_menu_left = "Collectif"
+footer_menu_middle = "Services"
+footer_menu_right = "Support"
+footer_content = "Collectivite.org est un collectif pour accompagner votre collectivité à améliorer ses outils et relations citoyennes."
+# copyright
+copyright = ""
+
+[en]
+languageName = "English"
+title = "Collectivite"
+contentDir = "content/en" # content/english
+weight = 2
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = ""
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
