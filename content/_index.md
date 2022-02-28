@@ -3,7 +3,7 @@
 banner:
   title : "Des outils pour votre collectivité"
   image : "images/banner-art.svg"
-  content : "Nous fournissons une selection d'outils indispensables aux collectivités."
+  content : "Bénéficiez facilement d'outils numériques pour votre collectivité."
   button:
     enable : true
     label : "Nous contacter"
@@ -27,12 +27,12 @@ feature:
     # feature item loop
     - name : "Mieux comprendre vos citoyens"
       icon : "fas fa-heart"
-      content : "Nous mettons tout en oeuvre pour vous accompagner à être proche de vos citoyens"
+      content : "Nous mettons tout en oeuvre pour vous accompagner dans vos outils aux citoyens"
 
     # feature item loop
     - name : "Des outils en ligne"
       icon : "fas fa-cloud"
-      content : "L'ensemble des outils proposés au collectivités sont directement hébergés et utilisables."
+      content : "L'ensemble des outils proposés aux collectivités sont hébergés et utilisables sans connaissances poussées."
 
 
 
@@ -46,11 +46,14 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Pour répondre au mieux aux utilisateurs il est indispensable de connaitre les besoins réels des visiteurs par des statistiques de visites. Matomo est une solution de suivi des visiteurs et de _tracking_ conforme à la RGPD. Plausible est une autre alternative de suivi des visiteurs répondant aux confirmités RGPD. Choisissez la solution avec laquelle vous vous sentez le plus à l'aise."
+      content : "Pour répondre au mieux aux utilisateurs il est indispensable de connaitre les besoins réels des visiteurs par des statistiques de visites.
+      Google Analytics n'étant plus une réponse possible, nous vous mettons en place un accès à  Matomo, une est une solution de suivi des visiteurs complète et de _tracking_, conforme à la RGPD.
+      Plausible est une autre alternative de suivi des visiteurs répondant aux confirmités RGPD.
+      Nous vous offrons les 2 solutions, vous choisissez simplement la solution qui vous ressemble."
       button:
         enable : true
         label : "Demander un code de suivi"
-        link : "#"
+        link : "/contact"
 
     # service item loop
     - title : "Un chat pour votre collectivité"
@@ -61,7 +64,7 @@ service:
       button:
         enable : true
         label : "Demander un accès gratuit au Mattermost"
-        link : "#"
+        link : "/contact"
 
 ################### Screenshot ########################
 screenshot:
