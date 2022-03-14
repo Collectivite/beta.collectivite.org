@@ -66,6 +66,23 @@ service:
         label : "Demander un accès gratuit au Mattermost"
         link : "/contact"
 
+######################### Carte Collect #####################
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "Promouvoir les commerces locaux"
+      images:
+      - "images/carte-collect/consommer-local.png"
+      - "images/carte-collect/points-carte-collect.png"
+      - "images/carte-collect/explications-carte-collect.png"
+      content : "La Carte Collect' est un nouveau moyen de stimuler les achats locaux et de promouvoir le commerce de proximité. C'est une nouvelle génération de carte de fidélité qui permet à un client de collecter ses points chez les différents commerçants."
+      button:
+        enable : true
+        label : "En savoir plus sur la Carte Collect'"
+        link : "/carte-collect"
+
+
 ################### Screenshot ########################
 screenshot:
   enable : true
