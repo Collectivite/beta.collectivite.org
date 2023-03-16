@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Des outils pour votre collectivité"
+  title : "Des outils pour votre collectivité en Alpes-Maritimes"
   image : "images/banner-art.svg"
-  content : "Bénéficiez facilement d'outils numériques pour votre collectivité."
+  content : "Nous sommes un collectif des Alpes-Maritimes pour offrir des services citoyens à nos collectivités de proximité."
   button:
     enable : true
     label : "Nous contacter"
@@ -11,8 +11,8 @@ banner:
 
 ##################### Feature ##########################
 feature:
-  enable : true
-  title : "Des services optimisés pour votre collectivité"
+  enable : false
+  title : "Des services optimisés pour votre collectivité en Alpes-Maritimes"
   feature_item:
     # feature item loop
     - name : "Open source"
@@ -32,13 +32,13 @@ feature:
     # feature item loop
     - name : "Des outils en ligne"
       icon : "fas fa-cloud"
-      content : "L'ensemble des outils proposés aux collectivités sont hébergés et utilisables sans connaissances poussées."
+      content : "L'ensemble des outils proposés à nos collectivités sont hébergés et utilisables sans connaissances techniques."
 
 
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "Outils de statistiques pour les sites de votre collectivité"
@@ -85,7 +85,7 @@ service:
 
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Mieux communiquer, mieux s'organiser,
   Collectivite.org vous accompagne."
   image : "images/screenshot.svg"
@@ -95,7 +95,7 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Besoin d'aller plus loin ?"
+  title : "Envie d'essayer ?"
   image : "images/cta.svg"
   content : "Communiquez-nous vos besoins complémentaires afin qu'on puisse les étudier au mieux et envisager de vous proposer les solutions très prochainement."
   button:
